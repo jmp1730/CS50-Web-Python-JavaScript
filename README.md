@@ -10,7 +10,7 @@ https://cs50.harvard.edu/web/2020/
 
  
 ## STATUS
-In Progress
+Completed successfully and certificate obtained
 
 
 ## PROJECT :
@@ -25,5 +25,3 @@ Project 3 - Design a front-end for an email client that makes API calls to send 
 Project 4 - Design a Twitter-like social network website for making posts and following users.
 
 Final Project - Designing and implementing a web application of your own with Python and JavaScript.
-
-
